@@ -1,2 +1,2 @@
-Please Go to Action And Click the index.html file then clink the following link under the deploy sign
+Please Go to Action And Click the latest file then click the following link under the deploy sign
 
